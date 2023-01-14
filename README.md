@@ -1,5 +1,5 @@
 # Social-Justice: Climate-Change
-An interactive enviromental art project that incorporates data on climate change in its scenes.
+An interactive enviromental art project that incorporates datasets on climate change in its scenes.
 
 # Modules and Concepts Applied
 1. Object Oriented Design Methods
