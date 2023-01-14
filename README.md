@@ -24,7 +24,7 @@ To run the program, run the 'transition.py' file directly or from the terminal u
 
 ### Lystem Image
 
-![climate](https://user-images.githubusercontent.com/106436271/212457340-0be0fe5c-6918-40e8-8c25-c615a18f861d.gif)
+![lsystem](https://user-images.githubusercontent.com/106436271/212457353-76b65c54-0f5d-450c-b506-215aafa55690.GIF)
 
 
 The transition from green leaves to brown leaves to no leaves of the plants depicts the adverse effects of climate change on plants.
