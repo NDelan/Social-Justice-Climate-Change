@@ -22,7 +22,7 @@ python3 transitions.py
 
 The heights of the chimneys correspond to surface temperature levels, while the size of the smoke bubbles accurately reflects the quantity of smoke emitted from the chimneys. This simulation mirrors the direct correlation between variations in harmful gas volumes released into the atmosphere and the resulting surface temperature changes.
 
-#### L-system Image
+#### L-system Image:
 
 <img src="https://user-images.githubusercontent.com/106436271/212457353-76b65c54-0f5d-450c-b506-215aafa55690.GIF" alt="lsystem" width="350" height="350">
 
